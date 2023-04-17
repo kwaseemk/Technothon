@@ -1,2 +1,2 @@
-# Technathon
-Technathon Project
+# Technothon
+Technothon Project
